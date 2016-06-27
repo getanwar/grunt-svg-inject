@@ -1,0 +1,43 @@
+{
+  "name": "grunt-svg-inject",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "Anwar Hussain",
+    "email": "anwar828@gmail.com",
+    "url": "http://www.anwar.im/"
+  },
+  "keywords": [
+    "gruntplugin",
+    "SVG",
+    "inject"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">=0.10.26"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "grunt": "~0.4.4",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "bugs": {
+    "url": "https://github.com/getanwar/grunt-svg-inject/issues"
+  }
+}
