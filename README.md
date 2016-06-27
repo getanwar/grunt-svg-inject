@@ -2,7 +2,7 @@
 
 > Compile a folder of SVG files into variables in a JavaScript file, ready for injection into HTML.
 
-This plugin creates an SVG icon system by creating a JavaScript file for injecting inline SVG into HTML. For a detailed description on how JavaScript SVG injection works - see this article [here](http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/) 
+This plugin creates an SVG icon system by creating a JavaScript file for injecting inline SVG into HTML. For a detailed description on how JavaScript SVG injection works - see this article [here](http://anwar.im/) 
 
 ## Getting Started
 This plugin requires Grunt `~0.4.1`
